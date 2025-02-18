@@ -12,4 +12,4 @@ Scraping Premier League match data from https://fbref.com/en/comps/9/schedule/Pr
 - Python (Requests, BeautifulSoup, Pandas)
 - SQLite
 - Cron
-- Streamlit / Power BI / Tableau
+- Power BI / Streamlit
